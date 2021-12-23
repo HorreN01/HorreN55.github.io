@@ -1,0 +1,67 @@
+header{
+    background-color: gray;
+    
+   
+}
+
+
+h1{
+    color: rgb(255 255 255);
+    text-align: center;
+}
+
+
+a{
+    color: rgb(255 255 255);
+    padding: 20px;
+    margin: 10px;
+    
+}
+
+.s1{
+    color: rgb(255 255 255);
+    background-color: palevioletred;
+}
+.s2{
+    background-color: blueviolet;
+    background-image: url("../Images/3700671.jpg");
+    background-size: contain;
+    background-repeat: repeat-x;
+    padding: 20%;
+    
+}
+
+h2,p{
+    color: rgb(255 255 255);
+    padding: 20px;
+}
+
+img{
+    width: 30%;
+    
+    
+}
+
+audio{
+    display: inline-block;
+    border: blueviolet solid;
+    border-radius: 50px;
+    
+    
+   
+}
+
+button{
+    padding: 10px;
+    margin: 10px;
+    background-color: gray;
+    color: rgb(255 255 255);
+}
+
+footer{
+    background-color: gray;
+}
+
+video{
+    width: 60%;
+}
